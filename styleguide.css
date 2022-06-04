@@ -1,0 +1,167 @@
+:root {
+    --black: 
+  rgba(0, 0, 0, 1);
+    --denim-blue: 
+  rgba(35, 76, 173, 1);
+    --zircon: 
+  rgba(242, 246, 255, 1);
+    --black-squeeze: 
+  rgba(246, 250, 251, 1);
+    --white: 
+  rgba(255, 255, 255, 1);
+  
+    --font-size-xs: 10px;
+    --font-size-s: 12px;
+    --font-size-m: 16px;
+    --font-size-l: 18px;
+    --font-size-xl: 22px;
+    --font-size-xxl: 25px;
+    --font-size-xxxl: 48px;
+  
+    --font-family-basic: "Basic";
+    --font-family-nunito: "Nunito";
+  }
+  
+  
+  
+  .nunito-bold-denim-blue-10px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xs);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .nunito-bold-denim-blue-25px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xxl);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .nunito-semi-bold-denim-blue-18px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-l);
+    font-weight: 600;
+    font-style: normal;
+  }
+  .nunito-bold-black-squeeze-6px {
+    color: var(--black-squeeze);
+    font-family: var(--font-family-nunito);
+    font-size: 6px;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .nunito-bold-denim-blue-18px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-l);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .nunito-bold-denim-blue-48px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xxxl);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .border-2px-denim-blue {
+    border-width: 2px;
+    border-style: solid;
+    border-color: var(--denim-blue);
+  }
+  .nunito-normal-denim-blue-22px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .nunito-bold-denim-blue-16px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-m);
+    font-weight: 700;
+    font-style: normal;
+  }
+  .border-3px-denim-blue {
+    border-width: 3px;
+    border-style: solid;
+    border-color: var(--denim-blue);
+  }
+  .nunito-normal-denim-blue-25px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xxl);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .nunito-bold-denim-blue-30px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: 30px;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .border-2px-white {
+    border-width: 2px;
+    border-style: solid;
+    border-color: var(--white);
+  }
+  .nunito-normal-denim-blue-20px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: 20px;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .nunito-normal-denim-blue-18px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-l);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .nunito-semi-bold-denim-blue-30px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: 30px;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .nunito-bold-denim-blue-56px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: 56px;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .nunito-normal-denim-blue-10px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xs);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .nunito-normal-denim-blue-12px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-s);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .nunito-normal-denim-blue-16px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-m);
+    font-weight: 400;
+    font-style: normal;
+  }
+  .nunito-bold-denim-blue-22px {
+    color: var(--denim-blue);
+    font-family: var(--font-family-nunito);
+    font-size: var(--font-size-xl);
+    font-weight: 700;
+    font-style: normal;
+  }
